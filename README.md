@@ -1,3 +1,3 @@
 # otus-qajs-course
 
-Первый проект по JS
+Первый проект по QA-JS OTUS.
