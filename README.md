@@ -1,3 +1,4 @@
 # otus-qajs-course
 
 Первый проект по QA-JS OTUS.
+Домашнее задание 1
