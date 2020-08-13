@@ -1,1 +1,1 @@
-# otus-qajs-course
+# otus-qajs-course.
